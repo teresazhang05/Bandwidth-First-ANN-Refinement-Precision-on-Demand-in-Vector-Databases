@@ -29,7 +29,7 @@ The codebase includes:
 - Implementations of **ℓ₁, ℓ₂, sign-aware, and Hoeffding cushions** for both cosine and Euclidean metrics  
 - Simulation of **disaggregated in-memory placement** and bandwidth accounting  
 - Tools for **bit-wise shuffling, compression evaluation**, and plotting recall vs. bandwidth trade-offs  
-- Scripts for reproducing all main figures from the paper (Recall@20, False Positives, Bandwidth Saving)
+- Scripts for reproducing all data from the paper (Recall@20, False Positives, Bandwidth Saving)
 
 ---
 
